@@ -1,4 +1,4 @@
-# readme.md
+# JS Async
 
 Três formas de resolver a questão de sincronicidade no javascript.
 
